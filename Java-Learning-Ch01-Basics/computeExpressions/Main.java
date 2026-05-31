@@ -1,4 +1,4 @@
-package computeExpressions;
+package ComputeExpressions;
 /*
  * Write a program that displays the result of 
  * 
