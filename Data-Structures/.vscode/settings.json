@@ -2,7 +2,9 @@
     "java.project.sourcePaths": [
         "src",
         "Linked_List",
-        "Queue/Queue_list"
+        "Queue/Queue_list",
+        "Queue/Queue_array"
+
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
